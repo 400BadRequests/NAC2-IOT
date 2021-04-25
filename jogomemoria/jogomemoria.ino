@@ -2,8 +2,6 @@
 
 JOGO DA MEMORIA - COM ARDUINO E SERIAL
 
-Gabriel Silva @2021
-
 inspirado em: http://jeknowledge.github.io/academy-articles/jogo-da-memoria
 */
 
